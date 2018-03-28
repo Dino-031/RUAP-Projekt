@@ -10,7 +10,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Pozdrav iz aplikacije od Dino Pečurlić.\nBr.indeksa: 0123 ");
+=======
+            Console.WriteLine("Pozdrav iz aplikacije od Dino Pečurlić");
+>>>>>>> 61d6654... Initial commit
         }
     }
 }
