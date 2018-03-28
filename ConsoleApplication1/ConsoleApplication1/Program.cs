@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Dino Pečurlić");
+            Console.WriteLine("Pozdrav iz aplikacije od Dino Pečurlić.\nBr.indeksa: 0123 ");
         }
     }
 }
